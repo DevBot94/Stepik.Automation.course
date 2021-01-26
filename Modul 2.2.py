@@ -16,7 +16,7 @@ try:
     # Кликаем по первой кнопке
     want_to_go_btn = browser.find_element_by_css_selector('button.btn.btn-primary').click()
 
-    # Вызываем json и переходим к окну аллерта
+    # Вызываем json и переходим к окну alert
     alert_window = browser.switch_to.alert
     # Подтверждаем переход
     alert_window.accept()
