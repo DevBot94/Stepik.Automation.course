@@ -4,4 +4,4 @@
 > A lot of different stuff, dude's 
 > I mean for real - a lot of
 
-![alt text](https://yandex.ru/images/search?from=tabbar&text=mountains&pos=2&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDxK9-q1WkAEB6Sk.jpg&rpt=simage "Just cool mountains")
+![alt text] (https://github.com/DevBot94/Stepik.Automation.course/blob/main/normandy.jpg "Just cool mountains")
