@@ -1,5 +1,5 @@
-<center># Stepik.Automation.course</center>
-<center>### Course of test automation with Python Selenium.</center>
+<dl><center># Stepik.Automation.course</center>
+<center>### Course of test automation with Python Selenium.</center></dl>
 > Homework's and some other stuff
 ***
 > A lot of different stuff, dude's 
