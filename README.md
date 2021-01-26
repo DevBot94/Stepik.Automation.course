@@ -7,7 +7,7 @@
 > I mean for real - a lot of
 
 
-Look at me:
+Look at me - I'm soo pretty:
 ![alt text][logo]
 
-[logo]: https://github.com/DevBot94/Stepik.Automation.course/blob/main/normandy.jpg "Me when I'm trying to make some push, but it crash all of the things"
+[logo]: https://github.com/DevBot94/Stepik.Automation.course/blob/main/normandy.jpg "Me when I'm trying to make some beautiful markup but after 10 commits it is still looks ugly"
